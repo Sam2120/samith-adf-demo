@@ -1,0 +1,9 @@
+{
+	"name": "samith-adf",
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0b837346-74aa-4b6b-aa59-03668bf2ea98",
+		"tenantId": "88404777-f24b-4e1c-ada1-bde9cda22754"
+	}
+}
